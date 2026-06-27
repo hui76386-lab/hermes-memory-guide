@@ -1,0 +1,4 @@
+# Hermes memory guide - documentation only
+*.tar.gz
+*.zip
+.DS_Store
